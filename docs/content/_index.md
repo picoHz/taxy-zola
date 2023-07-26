@@ -76,7 +76,7 @@ Once the server is running, you can access the admin panel at [http://localhost:
 
 > If you run the server on a remote machine, it is strongly recommended to use SSH port forwarding to access the admin panel instead of exposing the port to the public, as the connection is plain HTTP and not encrypted.
 >
-> Needless to say, you can serve the admin panel via HTTPS by using Taxy itself later on.
+> You can serve the admin panel via HTTPS by using Taxy itself later on.
 
 # Tutorial
 
